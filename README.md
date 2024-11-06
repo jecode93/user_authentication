@@ -10,8 +10,8 @@ This project demonstrates a simple Flutter app using Supabase authentication wit
 ## Project Setup
 
 ####	Clone the Repository git
-- `git clone https://github.com/yourusername/your-repo-name.git`
-- `cd your-repo-name`
+- `git clone https://github.com/jecode93/user_authentication.git`
+- `cd user_authentication`
 
 #### Install Dependencies
 - Run the following command to install the necessary packages:
