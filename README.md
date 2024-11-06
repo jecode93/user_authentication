@@ -1,7 +1,7 @@
 
 ## Getting Started
 
-This project demonstrates a simple Flutter app using Supabase authentication with Google and Facebook. Follow the steps below to set up and run the project locally.
+This project demonstrates a simple Flutter app using Supabase authentication with Google. Follow the steps below to set up and run the project locally.
 
 ## Prerequisites
 - [Flutter SDK](https://docs.flutter.dev/get-started/install) installed
