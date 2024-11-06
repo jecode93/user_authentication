@@ -19,8 +19,7 @@ This project demonstrates a simple Flutter app using Supabase authentication wit
 
 #### Create a Supabase Project
 - Go to [Supabase](https://supabase.com/) and create a new project.
-- From the Supabase dashboard, go to Connecting to your new project section
- > Project API to get your API URL and Anon Key.
+- From the Supabase dashboard, go to Connecting to your new project section > Project API to get your API URL and Anon Key.
 
 #### Configure OAuth Providers in Supabase
 - In the Supabase dashboard, go to Authentication > Providers.
